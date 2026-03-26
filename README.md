@@ -257,6 +257,7 @@ cp .env.example .env
 ### 3. 启动 Router
 
 ```bash
+cd ~/Projects/smart-study-router
 npm start
 ```
 
